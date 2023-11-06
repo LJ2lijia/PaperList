@@ -15,7 +15,7 @@
 
 - AceCoder: Utilizing Existing Code to Enhance Code Generation
 - Self-Edit: Fault-Aware Code Editor for Code Generation
-- Enabling Programming Thinking in Large Language Models Toward Code Generation
+- Structured Chain-of-Thought Prompting for Code Generation
 - ToolCoder: Teach Code Generation Models to use APIs with search tools
 - Self-Collaboration Code Generation via ChatGPT
 - Self-Planning Code Generation with Large Language Model
